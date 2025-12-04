@@ -1,53 +1,20 @@
-<h1 align="center">Hi 👋, I'm Feroz</h1>
-<h3 align="center">Full-Stack Developer </h3>
+<h1 align="center">Hi 👋, I'm Mohammed Feroz</h1>
+<h3 align="center">Full stack Developer</h3>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohd-feroz-8624&label=Profile%20views&color=0e75b6&style=flat" alt="mohd-feroz-8624" /> </p>
 
-## 🔥 GitHub Stats
-![Feroz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohd-Feroz-8624&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Mohd-Feroz-8624&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohd-Feroz-8624&layout=compact&theme=tokyonight)
+- 🌱 I’m currently learning **Machine Learning**
 
----
+- 👨‍💻 All of my projects are available at [https://portfolio-dmtk.vercel.app/](https://portfolio-dmtk.vercel.app/)
 
-## 🚀 About Me
-- 🌱 Currently learning **Full-Stack Development (MERN + Next.js)**
-- 💡 Interested in **building scalable web apps & backend systems**
-- ⚡ Fun fact: I break things to learn how they work 😄
+- 📫 How to reach me **mohamedferoz2023@gmail.com**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mohamed feroz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed feroz" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mohamedferoz2023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mohamedferoz2023" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mohd_feroz-8624" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohd_feroz-8624" height="30" width="40" /></a>
+</p>
 
-## 🛠️ Tech Stack & Tools
-
-### **Frontend**
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
-
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-
-### **Database**
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
-
----
-
-## 📫 Connect With Me
-🌐 GitHub: **https://github.com/Mohd-Feroz-8624**
-
----
-
-## ✨ Fun Badges
-![Profile Views](https://komarev.com/ghpvc/?username=Mohd-Feroz-8624&color=blue)
-![Followers](https://img.shields.io/github/followers/Mohd-Feroz-8624?style=social)
-![Stars](https://img.shields.io/github/stars/Mohd-Feroz-8624?style=social)
-
----
-
-### ⭐ If you like my projects, consider giving a star 😊
