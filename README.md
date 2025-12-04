@@ -4,11 +4,11 @@
 ---
 
 ## 🔥 GitHub Stats
-![Feroz's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohd_feroz_8624&show_icons=true&theme=tokyonight)
+![Feroz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohd-Feroz-8624&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mohd_feroz_8624&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Mohd-Feroz-8624&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohd_feroz_8624&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohd-Feroz-8624&layout=compact&theme=tokyonight)
 
 ---
 
