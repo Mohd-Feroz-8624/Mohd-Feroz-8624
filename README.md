@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Feroz</h1>
-<h3 align="center">Full-Stack Developer | MERN | Next.js Enthusiast</h3>
+<h3 align="center">Full-Stack Developer </h3>
 
 ---
 
@@ -39,14 +39,14 @@
 ---
 
 ## 📫 Connect With Me
-🌐 GitHub: **https://github.com/mohd_feroz_8624**
+🌐 GitHub: **https://github.com/Mohd-Feroz-8624**
 
 ---
 
 ## ✨ Fun Badges
-![Profile Views](https://komarev.com/ghpvc/?username=mohd_feroz_8624&color=blue)
-![Followers](https://img.shields.io/github/followers/mohd_feroz_8624?style=social)
-![Stars](https://img.shields.io/github/stars/mohd_feroz_8624?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=Mohd-Feroz-8624&color=blue)
+![Followers](https://img.shields.io/github/followers/Mohd-Feroz-8624?style=social)
+![Stars](https://img.shields.io/github/stars/Mohd-Feroz-8624?style=social)
 
 ---
 
