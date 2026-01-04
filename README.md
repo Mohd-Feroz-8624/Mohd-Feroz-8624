@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Genearative AI**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-dmtk.vercel.app/](https://portfolio-dmtk.vercel.app/)
 
